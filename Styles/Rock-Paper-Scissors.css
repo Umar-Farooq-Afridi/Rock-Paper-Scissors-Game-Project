@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+/* body section  */
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* container div section */
+.container {
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* main div section  */
+.main {
+    margin-top: 50px;
+}
+
+
+
+/* css on first-paragraph's element  */
+.first-paragraph {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+
+
+/* css on icon's element  */
+.icons {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+
+
+/* css on img's element  */
+img {
+    height: 75px;
+}
+
+
+
+/* css on move button  */
+.move-button {
+    background-color: transparent;
+    border: 5px solid white;
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 77px;
+    margin-left: 15px;
+}
+
+
+/* css on reset and auto play button */
+.reset-button,
+.auto-play-button {
+    background-color: white;
+    border: none;
+    font-size: 25px;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+
+/* css on result, move and score paragraph */
+.moves-paragraph,
+.score-paragraph {
+    font-size: 30px;
+}
+
+
+/* css on result paragraph */
+.result-paragraph {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+
+/* css on result paragraph */
+.result-paragraph {
+    margin-bottom: 20px;
+}
+
+
+/* css on move and score paragraph */
+.score-paragraph {
+    margin-top: 35px;
+}
